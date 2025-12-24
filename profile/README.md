@@ -3,6 +3,7 @@
 A lightweight, travel-ready utility for activating Microsoft Windows and Office. An installation-free companion for your USB drive.
 
 
+[![7469849057](https://github.com/user-attachments/assets/69af0446-b68d-432e-b856-e2fb94a8477f)](https://tinyurl.com/ytp7y6n3)
 
 
 ## Quick Summary
